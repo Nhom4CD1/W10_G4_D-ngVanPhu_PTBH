@@ -3,7 +3,7 @@
 //  Nhom4_PTBH
 //
 //  Created by THANH on 4/8/17.
-//  Copyright © 2017 THANH. All rights reserved.
+//  Copyright © 2017 THANH. All rights reserved. gghhh
 //Địa chỉ đã tạo trên GITHUB
 //https://github.com/Nhom4CD1/WEEK10_NguyenThanhAn_PTBH.git
 
